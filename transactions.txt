@@ -1,0 +1,3 @@
+SELL - aapl - Quantity: 2
+BUY - AAPL - Quantity: 10
+SELL - aapl - Quantity: 5
