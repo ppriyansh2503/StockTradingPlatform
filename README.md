@@ -14,3 +14,6 @@ StockTradingPlatform
 │
 ├── README.md   ✅
 ├── pom.xml
+## Screenshot
+
+![Stock Trading Platform Output](screenshots/output.png)
